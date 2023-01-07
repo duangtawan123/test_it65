@@ -13,6 +13,10 @@
     </div>
   </div>
 </div>-->
+<div class="container mt-5">
+  <div class="row">
+    <div class="col-sm-4">
+      <h2>Me</h2>
 
 <?php include 'footer.php' ?>
 </div>
